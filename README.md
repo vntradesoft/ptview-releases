@@ -1,10 +1,10 @@
-# PTView Trading Workstation — Official Releases
+# PtView Workstation — Official Releases
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6)](https://github.com/vntradesoft/ptview-releases/releases)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com/)
 [![Docs](https://img.shields.io/badge/Docs-PTView%20Portal-2962FF)](https://vntradesoft.github.io/ptview-docs/)
 
-Official distribution repository for **PTView Trading Workstation** — a native `.NET 10` Windows desktop cryptocurrency charting workstation featuring a 60 FPS `DrawingVisual` WPF chart engine, multi-exchange real-time WebSocket streaming (`Binance`, `OKX`, `Bybit`), an integrated **ReAct AI Copilot & MCP Server**, and isolated out-of-process custom indicator plugins (`PTView.SDK`).
+Official distribution repository for **PtView Workstation** — a native `.NET 10` Windows desktop cryptocurrency charting workstation featuring a 60 FPS `DrawingVisual` WPF chart engine, multi-exchange real-time WebSocket streaming (`Binance`, `OKX`, `Bybit`), an integrated **ReAct AI Copilot & MCP Server**, and isolated out-of-process custom indicator plugins (`PTView.SDK`).
 
 ---
 
