@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6)](https://github.com/vntradesoft/ptview-releases/releases)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com/)
-[![Docs](https://img.shields.io/badge/Docs-PTView%20Portal-2962FF)](https://vntradesoft.github.io/ptview-docs/)
+[![Docs](https://img.shields.io/badge/Docs-PTView%20Portal-2962FF)](https://docs.ptview.app/)
 
 Official distribution repository for **PtView Workstation** — a native `.NET 10` Windows desktop cryptocurrency charting workstation featuring a 60 FPS `DrawingVisual` WPF chart engine, multi-exchange real-time WebSocket streaming (`Binance`, `OKX`, `Bybit`), an integrated **ReAct AI Copilot & MCP Server**, and isolated out-of-process custom indicator plugins (`PTView.SDK`).
 
@@ -29,9 +29,9 @@ Visit the **[Releases](https://github.com/vntradesoft/ptview-releases/releases)*
 
 PTView ships as a **single unified binary** — no separate downloads or reinstalls are needed to upgrade:
 - **28-Day Complimentary Pro Trial**: Automatically activated on first launch (unlimited indicators, 4-chart grid layouts, external `PTView.SDK` plugins, full ReAct AI Copilot & MCP automation, 50,000+ historical bars).
-- **Community Edition (Free Forever)**: Up to 2 concurrent charts per grid, up to 3 active indicators per chart, real-time Binance/OKX/Bybit feeds, and built-in drawing/analysis tools.
+- **Community Edition (Free Forever)**: Up to 2 concurrent charts per grid, up to 5 active indicators per chart, real-time Binance/OKX/Bybit feeds, and built-in drawing/analysis tools.
 
-See the **[Editions & Update Channels Guide](https://vntradesoft.github.io/ptview-docs/editions-and-channels)** for full comparison details.
+See the **[Editions & Update Channels Guide](https://docs.ptview.app/editions-and-channels)** for full comparison details.
 
 ---
 
@@ -56,7 +56,7 @@ Get-FileHash .\PTViewWorkstation-win-Setup.exe -Algorithm SHA256
 
 ## Ecosystem Links
 
-- **Official Documentation & Release Notes**: [vntradesoft.github.io/ptview-docs](https://vntradesoft.github.io/ptview-docs/)
+- **Official Documentation & Release Notes**: [docs.ptview.app](https://docs.ptview.app/)
 - **Indicator & Plugin SDK (`PTView.SDK`)**: [github.com/vntradesoft/ptview-sdk](https://github.com/vntradesoft/ptview-sdk)
 - **Bug Reports & Feature Requests**: [Issues](https://github.com/vntradesoft/ptview-releases/issues)
 
